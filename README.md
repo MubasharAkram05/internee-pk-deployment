@@ -48,6 +48,12 @@ echo "Setup Complete! $(date)" >> /var/log/internee-setup.log
 3. ✅ Auto installed Nginx + Git via User Data script
 4. ✅ Pulled website files automatically from GitHub
 5. ✅ Website live on `http://EC2_PUBLIC_IP`
+6.  ✅ Free domain configured (internee-mubashar.ddns.net)
+7. ✅ HTTPS enabled using Let's Encrypt SSL
+8. ✅ HTTP to HTTPS auto redirect enabled
+
+## 🔗 Live URL
+https://internee-mubashar.ddns.net
 
 ---
 
