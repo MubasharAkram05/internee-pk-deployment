@@ -55,16 +55,19 @@ echo "Setup Complete! $(date)" >> /var/log/internee-setup.log
 ## 🔗 Live URL
 https://internee-mubashar.ddns.net
 
----
+---Deactivate after some hours 
 
 ## 📸 Screenshots
 
 - EC2 Instance Running
+- 
 - <img width="1880" height="461" alt="dshb inst" src="https://github.com/user-attachments/assets/275f5197-ca35-4c9c-8d8c-bdfcec3b7793" />
 <img width="1920" height="934" alt="instance running dashboard" src="https://github.com/user-attachments/assets/ba1ef3f9-b080-473a-8b7a-8ba127eef4b9" />
 - <img width="1886" height="900" alt="1st intance" src="https://github.com/user-attachments/assets/f13cd703-8b81-4cfa-9731-8d95749fa397" />
 
+
 - Nginx Active Status
+- 
 <img width="797" height="663" alt="bash-setup3" src="https://github.com/user-attachments/assets/4b1f1d9b-c8d7-478f-83a3-97db9e91baf7" />
 <img width="988" height="1037" alt="bash-setup2" src="https://github.com/user-attachments/assets/bf878d9c-33c5-4526-9fac-814cd06b2682" />
 <img width="1226" height="1027" alt="bashsetub1" src="https://github.com/user-attachments/assets/31db5f77-780e-44d8-bedf-e04b828ba958" />
@@ -76,16 +79,22 @@ https://internee-mubashar.ddns.net
 <img width="1920" height="1080" alt="live" src="https://github.com/user-attachments/assets/d824a0a2-aa06-4eed-bcda-8c2f6e87b8a6" />
 
 Domain 
+
 <img width="1557" height="651" alt="domain" src="https://github.com/user-attachments/assets/ea381424-b071-488a-af95-c3b449085f6c" />
 
+
 Security Group
+
 <img width="1267" height="610" alt="security" src="https://github.com/user-attachments/assets/33d52aee-645e-4b15-af3c-5e004fd21577" />
 
 Instance connect
+
 <img width="1887" height="895" alt="ubunto-interface2" src="https://github.com/user-attachments/assets/49602cab-4659-4c7e-aba8-f6de8c1a00a9" />
 <img width="1920" height="955" alt="ubunto interface" src="https://github.com/user-attachments/assets/b3fea3d1-bb8d-4bfa-9cf2-8db6ba8a0da5" />
 
-Instance Acess using putty 
+
+Instance Acess using putty
+
 <img width="1112" height="692" alt="access using putty" src="https://github.com/user-attachments/assets/3902c9b6-6ff7-4f01-9af7-996982b83b40" />
 
 
