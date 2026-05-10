@@ -59,18 +59,22 @@ https://internee-mubashar.ddns.net
 
 ## 📸 Screenshots
 
-- EC2 Instance Running
-- 
-- <img width="1880" height="461" alt="dshb inst" src="https://github.com/user-attachments/assets/275f5197-ca35-4c9c-8d8c-bdfcec3b7793" />
-<img width="1920" height="934" alt="instance running dashboard" src="https://github.com/user-attachments/assets/ba1ef3f9-b080-473a-8b7a-8ba127eef4b9" />
-- <img width="1886" height="900" alt="1st intance" src="https://github.com/user-attachments/assets/f13cd703-8b81-4cfa-9731-8d95749fa397" />
+- ### EC2 Instance Running
+- <img width="1920" height="889" alt="instance running dashboard" src="https://github.com/user-attachments/assets/f37c7936-d125-454c-9ea7-b175d47de49f" />
 
+### EC2 Instances List
+<img width="1886" height="836" alt="1st intance" src="https://github.com/user-attachments/assets/518a2b6e-2cdf-4e96-b39a-895653319695" />
 
-- Nginx Active Status
+### SSH Connection Established
+<img width="1226" height="1027" alt="bashsetub1" src="https://github.com/user-attachments/assets/b91fbb45-f8a0-4ffc-a4c0-15d9e8e8ac6f" />
+
+### SSL Certificate Process
+<img width="988" height="1037" alt="bash-setup2" src="https://github.com/user-attachments/assets/e3b684ca-1d20-4b79-9871-bd3aadcbc23b" />
+
+### SSL Successfully Installed ✅
+<img width="797" height="663" alt="bash-setup3" src="https://github.com/user-attachments/assets/27bc1c15-4c55-40d3-a610-8626b4de528f" />
+
 - 
-<img width="797" height="663" alt="bash-setup3" src="https://github.com/user-attachments/assets/4b1f1d9b-c8d7-478f-83a3-97db9e91baf7" />
-<img width="988" height="1037" alt="bash-setup2" src="https://github.com/user-attachments/assets/bf878d9c-33c5-4526-9fac-814cd06b2682" />
-<img width="1226" height="1027" alt="bashsetub1" src="https://github.com/user-attachments/assets/31db5f77-780e-44d8-bedf-e04b828ba958" />
 
 - 
 - Website Live on Browser
